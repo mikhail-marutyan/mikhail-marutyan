@@ -1,4 +1,4 @@
-# Hello! I’m Mihkail!
+# Hi, I’m Mihkail!
 **DocOps Engineer & Technical Writer**
 
 ## What I do
