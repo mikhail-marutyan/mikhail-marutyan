@@ -4,7 +4,7 @@
 ## What I do
 
 - Build multi-repo, single‑source documentation infrastructure with CI/CD pipelines and QA/security automation.  
-- Design and implement docs‑as‑code workflows: upstream/downstream processes, GitFlow, shift‑left integration.  
+- Design and implement docs‑as‑code workflows: upstream/downstream processes, Git flow, shift‑left integration.  
 - Drive continuous localization pipelines with gettext/POT, Git hooks and TMs.  
 - Develop competency frameworks, hiring workflows, and onboarding programs for technical documentation teams.  
 - Mentor and consult on documentation architecture, process governance, and documentation-oriented DevOps practices.
