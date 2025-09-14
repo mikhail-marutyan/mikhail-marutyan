@@ -3,16 +3,17 @@
 
 ## What I do
 
-- Build multi-repo, single‑source documentation infrastructure with CI/CD pipelines and QA/security automation.  
-- Design and implement docs‑as‑code workflows: upstream/downstream processes, Git flow, shift‑left integration.  
-- Drive continuous localization pipelines with gettext/POT, Git hooks and TMs.  
+- Build multi-repo, single‑source documentation infrastructure with QA & security automation.  
+- Design and implement end-to-end docs-as-code development cycles (upstream/downstream flows, Git workflows, shift-left integration).
+- Implement documentation health metrics, logging, and dashboards with Prometheus/Grafana.
+- Drive continuous localization pipelines (i18n/l10n automation).
 - Develop competency frameworks, hiring workflows, and onboarding programs for technical documentation teams.  
 - Mentor and consult on documentation architecture, process governance, and documentation-oriented DevOps practices.
 
-## Currently learning
+## Currently exploring
 
-- AI-powered documentation bots and assistants for generating contextual developer or user guides. 
-- AI-driven documentation linting and QA (style guide enforcement, broken link detection, API linting).
+- AI-powered documentation bots and assistants.
+- AI-driven documentation linting and QA (style guide enforcement, API linting).
 - AI documentation generation and summarization (natural‑language generation from codebases based on templates).
 
 ## How to reach me
