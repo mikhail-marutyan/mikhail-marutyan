@@ -10,12 +10,6 @@
 - Develop competency frameworks, hiring workflows, and onboarding programs for technical documentation teams.  
 - Mentor and consult on documentation architecture, process governance, and documentation-oriented DevOps practices.
 
-## Currently exploring
-
-- AI-powered documentation bots and assistants.
-- AI-driven documentation linting and QA (style guide enforcement, API linting).
-- AI documentation generation and summarization (natural‑language generation from codebases based on templates).
-
 ## How to reach me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mbmarutyan)
